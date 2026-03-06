@@ -35,7 +35,7 @@ This is a **binary classification web application** built using **Streamlit** an
 1. **Clone the repository:**
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/VelociRoughtor/Machine-Learning-Web-App-with-Streamlit-and-Python.git
 cd ML\ App
 ````
 
@@ -111,14 +111,5 @@ pip install -r requirements.txt
 
 **MD. Mehedi Hasan Rafy**
 
-* GitHub: [your-github-username](https://github.com/your-github-username)
-* Email: [your-email@example.com](mailto:your-email@example.com)
-
-```
-
----
-
-If you want, I can also **add a “How to contribute” and “License” section** so your GitHub repo looks very professional.  
-
-Do you want me to add that?
-```
+* GitHub: [VelociRoughtor](https://github.com/VelociRoughtor)
+* Email: [mdmehedihasanrafy747@gmail.com](mailto:mdmehedihasanrafy747@gmail.com)
